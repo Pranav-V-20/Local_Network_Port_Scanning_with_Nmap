@@ -1,8 +1,6 @@
 # 🔍 Local Network Port Scanning with Nmap
 
-## 📘 Overview
-
-Task - 1 of `Elevate Labs`
+> Task 1 - Elevate Labs - Cyber Security Internship
 
 This project demonstrates how to scan your local network for open ports using **Nmap**, a powerful network discovery and security auditing tool. Understanding which ports are open on devices in your network is crucial for assessing potential security vulnerabilities.
 
